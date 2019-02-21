@@ -1,2 +1,6 @@
 User-agent: *
+<<<<<<< HEAD
 Disallow: /slides/
+=======
+Disallow: /slides/
+>>>>>>> 6b260f039b07d69eace6d5b97a953d5eab919451
